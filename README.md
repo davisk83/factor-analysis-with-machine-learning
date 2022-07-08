@@ -32,4 +32,4 @@ Hall/CRC Financial Mathematics Series. Chapman and Hall/CRC, 1 edition, 2020.
 
 ## Report
 
-[Factor Analysis with Machine Learning](https://github.com/ivannagwen/CFRM421-Final-Project/blob/a7e25c32493ed2c7ee149e9f56c5bde8895fa7de/ML-Factor-Analysis.ipynb)
+[Factor Analysis with Machine Learning](https://github.com/davisk83/factor-analysis-with-machine-learning/blob/b8e37c271faf1e17d4f8064556cb74ede5824c38/ML-Factor-Analysis.ipynb)
